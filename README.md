@@ -12,4 +12,4 @@ E se exceder o limite de saques diários a operação também é encerrada.
 
 
 Na opção de Extrato é mostrado todas as movimentações junto com o valor feitas pelo usuário e também o seu saldo no sistema.
-\n\n![image](https://github.com/Devrafael112/sistema_bancario_bootcamp_python/assets/76628576/f51f10d3-15d5-4b14-a61c-b07adf27c477)
+<br>![image](https://github.com/Devrafael112/sistema_bancario_bootcamp_python/assets/76628576/f51f10d3-15d5-4b14-a61c-b07adf27c477)
