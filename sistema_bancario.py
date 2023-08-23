@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 menu = """
 
 [d] Depositar
@@ -230,4 +229,4 @@ def main():
 
 
 main()
->>>>>>> 29f03d6 (Atualização do sistema para funções)
+
